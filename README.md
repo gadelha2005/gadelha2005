@@ -1,15 +1,14 @@
-
-
-### Olá, meu nome é Pedro Gadelha👋
+### Olá, meu nome é Pedro Gadelha 👋
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pgpgadelha123@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-gadelha-b1a05934a)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_pgadelha/)
 
-
 ![Gadelha GitHub stats](https://github-readme-stats.vercel.app/api?username=gadelha2005&show_icons=true&theme=radical)
 
-## Tecnologias de uso no meu dia a dia
+---
+
+## 🚀 Tecnologias que utilizo no dia a dia
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -20,5 +19,20 @@
     <img align="center" alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
 </div>
 
+---
 
+## 📂 Projetos em destaque
 
+[![Lista de Compras](https://img.shields.io/badge/🛒%20Lista%20de%20Compras-000?style=for-the-badge&logo=github)](https://github.com/gadelha2005/lista_compras)
+
+[![FitUnifor](https://img.shields.io/badge/🏋️%20FitUnifor-000?style=for-the-badge&logo=github)](https://github.com/gadelha2005/FitUnifor)
+
+[![Agregador de Investimentos](https://img.shields.io/badge/📈%20Agregador%20de%20Investimentos-000?style=for-the-badge&logo=github)](https://github.com/gadelha2005/agregador-investimento)
+
+[![Projeto Restaurante](https://img.shields.io/badge/🍽️%20Projeto%20Restaurante-000?style=for-the-badge&logo=github)](https://github.com/gadelha2005/ProjetoRestaurante)
+
+[![Chamado de Happy 2](https://img.shields.io/badge/🎉%20Chamado%20de%20Happy%202-000?style=for-the-badge&logo=github)](https://github.com/gadelha2005/ChamadoDeHappy2)
+
+[![HeroHoper](https://img.shields.io/badge/🦸%20HeroHoper-000?style=for-the-badge&logo=github)](https://github.com/gadelha2005/HeroHoper)
+
+[![Jogo da Velha Java](https://img.shields.io/badge/❌⭕%20Jogo%20da%20Velha%20(Java)-000?style=for-the-badge&logo=github)](https://github.com/gadelha2005/JogoDaVelhajava)
