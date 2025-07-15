@@ -31,6 +31,8 @@
 
 [![Projeto Restaurante](https://img.shields.io/badge/🍽️%20Projeto%20Restaurante-000?style=for-the-badge&logo=github)](https://github.com/gadelha2005/ProjetoRestaurante)
 
+[![CRUD de Produtos](https://img.shields.io/badge/🛒%20Lista%20de%20Compras-000?style=for-the-badge&logo=github)](https://github.com/gadelha2005/crud_produtos)
+
 [![Chamado de Happy 2](https://img.shields.io/badge/🎉%20Chamado%20de%20Happy%202-000?style=for-the-badge&logo=github)](https://github.com/gadelha2005/ChamadoDeHappy2)
 
 [![HeroHoper](https://img.shields.io/badge/🦸%20HeroHoper-000?style=for-the-badge&logo=github)](https://github.com/gadelha2005/HeroHoper)
