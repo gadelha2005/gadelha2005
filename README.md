@@ -23,7 +23,7 @@
 
 ## 📂 Projetos em destaque
 
-[![FoodMind](https://img.shields.io/badge/🍏%20FoodMind-000?style=for-the-badge&logo=github)](https://github.com/gadelha2005/food_mind)
+[![Food Mind](https://img.shields.io/badge/🍏%20FoodMind-000?style=for-the-badge&logo=github)](https://github.com/gadelha2005/food_mind)
 
 [![Lista de Compras](https://img.shields.io/badge/🛒%20Lista%20de%20Compras-000?style=for-the-badge&logo=github)](https://github.com/gadelha2005/lista_compras)
 
