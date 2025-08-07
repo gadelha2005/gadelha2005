@@ -4,7 +4,19 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-gadelha-b1a05934a)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_pgadelha/)
 
-![Gadelha GitHub stats](https://github-readme-stats.vercel.app/api?username=gadelha2005&show_icons=true&theme=radical)
+<div style="display: inline_block"><br/>
+   <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="400" 
+      style="padding-right: 10px;" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadelha2005&theme=dark&layout=compact&custom_title=Tecnologias&" 
+  />
+    
+</div>
+
+
+![Gadelha GitHub stats](https://github-readme-stats.vercel.app/api?username=gadelha2005&show_icons=true&theme=dark)
 
 ---
 
@@ -17,6 +29,7 @@
     <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
+    
 </div>
 
 ---
