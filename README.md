@@ -3,7 +3,7 @@
 Sou estudante de **Ciência da Computação** e **Desenvolvedor Full Stack em formação**, com foco em **Backend**, focado na criação de APIs REST seguras, escaláveis e bem estruturadas 🚀  
 
 📍 Fortaleza - CE  
-🎓 Universidade de Fortaleza (UNIFOR) — Previsão de conclusão: **2028**
+🎓 Universidade de Fortaleza (UNIFOR) — Previsão de conclusão: **2027**
 
 ---
 
