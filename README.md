@@ -89,7 +89,7 @@ Sou estudante de **Ciência da Computação** e **Desenvolvedor Full Stack em fo
 - 🛒 **[Lista de Compras](https://github.com/gadelha2005/lista_compras)**
 - 🧾 **[Next POS](https://github.com/gadelha2005/Next_POS)**
 - 🏋️ **[FitUnifor](https://github.com/gadelha2005/FitUnifor)**
-- 📈 **[Agregador de Investimentos](https://github.com/gadelha2005/agregador-investimento)**
+- 📈 **[InvestAlert](https://github.com/gadelha2005/InvestAlertFrontend)**
 - 🍽️ **[Projeto Restaurante](https://github.com/gadelha2005/ProjetoRestaurante)**
 - 🛍️ **[CRUD de Produtos](https://github.com/gadelha2005/crud_produtos)**
 - 🎮 **[HeroHoper](https://github.com/gadelha2005/HeroHoper)**
