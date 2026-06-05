@@ -3,7 +3,7 @@
 Full Stack Developer (Backend Focus) — I build secure, scalable, and well-tested REST APIs using Java and Spring Boot, and deliver complete full stack solutions with React + TypeScript when the project demands it.
 
 Fortaleza, CE — Brazil
-Computer Science @ UNIFOR — Expected graduation: **2028**
+Computer Science @ UNIFOR 
 
 ---
 
