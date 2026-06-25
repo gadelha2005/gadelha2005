@@ -1,6 +1,6 @@
 # Hi, I'm Pedro Gadelha
 
-Full Stack Developer (Backend Focus) — I build secure, scalable, and well-tested REST APIs using Java and Spring Boot, and deliver complete full stack solutions with React + TypeScript when the project demands it.
+Backend-focused Full Stack Developer. I build secure, scalable REST APIs with **Java/Spring Boot** and **Node.js/Express**, and deliver complete full stack solutions with **React + TypeScript** when the project demands it. Currently pursuing a Computer Science degree at UNIFOR and actively looking for internship or junior developer opportunities.
 
 Fortaleza, CE — Brazil
 Computer Science @ UNIFOR 
