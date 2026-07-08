@@ -1,110 +1,154 @@
-# Hi, I'm Pedro Gadelha
+<div align="center">
 
-Backend-focused Full Stack Developer. I build secure, scalable REST APIs with **Java/Spring Boot** and **Node.js/Express**, and deliver complete full stack solutions with **React + TypeScript** when the project demands it. Currently pursuing a Computer Science degree at UNIFOR and actively looking for internship or junior developer opportunities.
+# Pedro Gadelha
 
-Fortaleza, CE — Brazil
-Computer Science @ UNIFOR 
+### Backend-focused Full Stack Developer
 
----
+Construo APIs REST seguras e escaláveis com **Java/Spring Boot** e **Node.js/Express**,
+e entrego soluções full stack completas com **React + TypeScript** quando o projeto exige.
+Estudante de Ciência da Computação na UNIFOR — buscando oportunidades de estágio ou júnior.
 
-## Contact
+📍 Fortaleza, CE — Brasil
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pgpgadelha123@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-gadelha-b1a05934a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://gadelha2005.github.io/PortifolioGadelha/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gadelha2005)
+[![Gmail](https://img.shields.io/badge/-pgpgadelha123%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pgpgadelha123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-gadelha-b1a05934a)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-1a1a1a?style=flat&logo=vercel&logoColor=white)](https://gadelha2005.github.io/PortifolioGadelha/)
+[![GitHub](https://img.shields.io/badge/-gadelha2005-181717?style=flat&logo=github&logoColor=white)](https://github.com/gadelha2005)
 
----
+</div>
 
-## GitHub Stats
+<br>
 
-<div align="left">
+## 📊 GitHub Stats
+
+<div align="center">
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=gadelha2005&show_icons=true&theme=dark&count_private=true&include_all_commits=true&cache_seconds=1800"
+    height="165em"
+    src="https://github-readme-stats.vercel.app/api?username=gadelha2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"
     alt="Pedro's GitHub stats"
   />
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadelha2005&layout=compact&theme=dark&langs_count=8&cache_seconds=1800"
+    height="165em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadelha2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"
     alt="Most used languages"
   />
 </div>
 
----
-
-## Tech Stack
-
-### Backend
-<div>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-  <img alt="JPA / Hibernate" src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=gadelha2005&theme=tokyonight&hide_border=true&card_width=830"
+    alt="GitHub streak stats"
+  />
 </div>
 
-### Frontend
-<div>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=gadelha2005&theme=tokyo-night&hide_border=true&area=true"
+    alt="Contribution activity graph"
+  />
 </div>
 
-### Mobile
-<div>
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-</div>
+<br>
 
-### Databases
-<div>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase"/>
-</div>
+## 🛠️ Tech Stack
 
-### Testing
-<div>
-  <img alt="JUnit 5" src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
-  <img alt="Mockito" src="https://img.shields.io/badge/Mockito-59666C?style=for-the-badge"/>
-</div>
+**Backend**
 
-### Tools & DevOps
-<div>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-  <img alt="Flyway" src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white"/>
-</div>
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-JPA%2FHibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
----
+**Frontend**
 
-## Featured Projects
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-| Project | Stack | Description |
-|---|---|---|
-| [InvestAlert](https://github.com/gadelha2005/InvestAlertFrontend) | Spring Boot · React 19 · MySQL · Docker | Investment monitoring platform with real-time alerts, JWT auth, and Recharts dashboards |
-| [NextPOS](https://github.com/gadelha2005/Next_POS) | Node.js · Express · React 18 · MongoDB | Full stack POS system with sales, inventory, cash register, and automated email |
-| [FitUnifor](https://github.com/gadelha2005/FitUnifor) | Kotlin · Firebase · Android | Android app for gym management at UNIFOR with role-based access and AI chat |
-| [Restaurant Reservation](https://github.com/gadelha2005/ProjetoRestaurante) | Spring Boot · JPA · MySQL | Reservation system focused on JPA/Hibernate and robust exception handling |
-| [HeroHoper](https://github.com/gadelha2005/HeroHoper) | Godot | 2D platformer with interactive mechanics |
+**Mobile**
 
----
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-## Core Knowledge
+**Databases**
 
-- Object-Oriented Programming & Design Patterns
-- Data Structures & Algorithm Analysis
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Testing & DevOps**
+
+![JUnit5](https://img.shields.io/badge/-JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/-Mockito-59666C?style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Flyway](https://img.shields.io/badge/-Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
+
+<br>
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gadelha2005/InvestAlertFrontend">InvestAlert</a></h3>
+      Plataforma de monitoramento de investimentos com alertas em tempo real, autenticação JWT e dashboards com Recharts.
+      <br><br>
+      <code>Spring Boot</code> <code>React 19</code> <code>MySQL</code> <code>Docker</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gadelha2005/Next_POS">NextPOS</a></h3>
+      Sistema PDV full stack com vendas, estoque, caixa e envio automático de e-mails.
+      <br><br>
+      <code>Node.js</code> <code>Express</code> <code>React 18</code> <code>MongoDB</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gadelha2005/FitUnifor">FitUnifor</a></h3>
+      App Android para gestão de academia da UNIFOR, com controle de acesso por papéis e chat com IA.
+      <br><br>
+      <code>Kotlin</code> <code>Firebase</code> <code>Android</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gadelha2005/ProjetoRestaurante">Restaurant Reservation</a></h3>
+      Sistema de reservas focado em JPA/Hibernate e tratamento robusto de exceções.
+      <br><br>
+      <code>Spring Boot</code> <code>JPA</code> <code>MySQL</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gadelha2005/HeroHoper">HeroHoper</a></h3>
+      Plataformer 2D com mecânicas interativas.
+      <br><br>
+      <code>Godot</code>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
+
+<br>
+
+## 📚 Core Knowledge
+
+- Programação Orientada a Objetos & Design Patterns
+- Estruturas de Dados & Análise de Algoritmos
 - SOLID, GRASP & Clean Code
-- REST API Design & Security (JWT, Spring Security)
-- Relational & Non-relational Databases
-- Automated Testing & TDD fundamentals
-- Git workflow & version control
+- Design e segurança de APIs REST (JWT, Spring Security)
+- Bancos de dados relacionais & não relacionais
+- Testes automatizados & fundamentos de TDD
+- Git workflow & versionamento
 
----
+<br>
 
-*Actively building my portfolio and open to internships or junior roles in backend or full stack development.*
+<div align="center">
+
+*Construindo meu portfólio ativamente e aberto a oportunidades de estágio ou júnior em backend ou full stack.*
+
+</div>
