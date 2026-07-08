@@ -6,7 +6,7 @@
 
 Construo APIs REST seguras e escaláveis com **Java/Spring Boot** e **Node.js/Express**,
 e entrego soluções full stack completas com **React + TypeScript** quando o projeto exige.
-Estudante de Ciência da Computação na UNIFOR — buscando oportunidades de estágio ou júnior.
+Estudante de Ciência da Computação na UNIFOR.
 
 📍 Fortaleza, CE — Brasil
 
@@ -24,15 +24,17 @@ Estudante de Ciência da Computação na UNIFOR — buscando oportunidades de es
 <div align="center">
   <img
     height="165em"
-    src="https://github-readme-stats.vercel.app/api?username=gadelha2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=gadelha2005&show_icons=true&theme=tokyonight&hide_border=true"
     alt="Pedro's GitHub stats"
   />
   <img
     height="165em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadelha2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadelha2005&layout=compact&theme=tokyonight&hide_border=true"
     alt="Most used languages"
   />
 </div>
+
+> Se algum card acima aparecer quebrado, é instabilidade temporária do serviço `github-readme-stats` (roda em servidor gratuito da Vercel) — não é erro no README. Basta recarregar a página em alguns minutos.
 
 <div align="center">
   <img
