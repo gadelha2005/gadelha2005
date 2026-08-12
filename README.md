@@ -2,7 +2,7 @@
 
 # Pedro Gadelha
 
-### Backend-focused Full Stack Developer
+### Full Stack Developer
 
 Construo APIs REST seguras e escaláveis com **Java/Spring Boot** e **Node.js/Express**,
 e entrego soluções full stack completas com **React + TypeScript** quando o projeto exige.
@@ -54,6 +54,17 @@ Estudante de Ciência da Computação na UNIFOR.
 
 ## 🛠️ Tech Stack
 
+**Languages**
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
 **Backend**
 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -62,6 +73,9 @@ Estudante de Ciência da Computação na UNIFOR.
 ![Hibernate](https://img.shields.io/badge/-JPA%2FHibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 **Frontend**
 
@@ -98,40 +112,47 @@ Estudante de Ciência da Computação na UNIFOR.
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/gadelha2005/BuildBox">BuildBox</a></h3>
+      E-commerce para loja de ferragens, com catálogo, carrinho, checkout, painel de funcionário e painel administrativo (produtos, categorias, usuários e relatórios). Deploy em produção com API documentada via Swagger.
+      <br><br>
+      <code>Express 5</code> <code>TypeScript</code> <code>Prisma</code> <code>MySQL</code> <code>React 19</code>
+      <br><br>
+      🔗 <a href="https://build-box-eight.vercel.app">Produção</a>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/gadelha2005/InvestAlertFrontend">InvestAlert</a></h3>
       Plataforma de monitoramento de investimentos com alertas em tempo real, autenticação JWT e dashboards com Recharts.
       <br><br>
       <code>Spring Boot</code> <code>React 19</code> <code>MySQL</code> <code>Docker</code>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/gadelha2005/Next_POS">NextPOS</a></h3>
       Sistema PDV full stack com vendas, estoque, caixa e envio automático de e-mails.
       <br><br>
       <code>Node.js</code> <code>Express</code> <code>React 18</code> <code>MongoDB</code>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/gadelha2005/FitUnifor">FitUnifor</a></h3>
       App Android para gestão de academia da UNIFOR, com controle de acesso por papéis e chat com IA.
       <br><br>
       <code>Kotlin</code> <code>Firebase</code> <code>Android</code>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/gadelha2005/ProjetoRestaurante">Restaurant Reservation</a></h3>
       Sistema de reservas focado em JPA/Hibernate e tratamento robusto de exceções.
       <br><br>
       <code>Spring Boot</code> <code>JPA</code> <code>MySQL</code>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/gadelha2005/HeroHoper">HeroHoper</a></h3>
       Plataformer 2D com mecânicas interativas.
       <br><br>
       <code>Godot</code>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
