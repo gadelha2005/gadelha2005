@@ -172,6 +172,6 @@ Estudante de Ciência da Computação na UNIFOR.
 
 <div align="center">
 
-*Construindo meu portfólio ativamente e aberto a oportunidades de estágio ou júnior em backend ou full stack.*
+
 
 </div>
